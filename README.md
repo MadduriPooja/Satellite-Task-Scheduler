@@ -2,6 +2,7 @@
 A Java-based simulation that manages satellite tasks using a Priority Queue (DSA). It handles resource management (battery power) and simulates solar charging cycles to prioritize critical operations like emergency thrusters.
 
 🧩 DSA Concepts Used
+
 1.Priority Queue (Heap) → Efficient scheduling of tasks by priority.
 
 2.Queue Operations → Enqueue/Dequeue tasks for execution order.
@@ -11,6 +12,7 @@ A Java-based simulation that manages satellite tasks using a Priority Queue (DSA
 4.Simulation & State Management → Models real-world constraints like battery drain and recharge.
 
 📊 Complexity Analysis
+
 1.Insert Task → 𝑂(log𝑛)
 
 2.Execute Task → 𝑂(log𝑛)
